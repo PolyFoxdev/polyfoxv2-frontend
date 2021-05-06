@@ -1,1 +1,1 @@
-# PolyGaj Frontend
+# Polyfoxv2 Frontend
