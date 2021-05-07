@@ -7,7 +7,7 @@ const config: MenuEntry[] = [
     href: '/',
   },
   {
-    label: 'Buy GAJ',
+    label: 'Buy PHX',
     icon: 'TradeIcon',
     href: 'https://quickswap.exchange/#/swap?inputCurrency=0xf4b0903774532aee5ee567c02aab681a81539e92'
   },
