@@ -62,7 +62,7 @@ const Home: React.FC = () => {
         <Heading as="h1" size="xl" mb="24px" color="secondary">
           {TranslateString(576, 'PolyGaj')}
         </Heading>
-        <Text>You have seen the whales, now experience the Elephant</Text>
+        <Text>Rise from the ashes and to the moon!</Text>
       </Hero>
       <div>
         <Cards>
