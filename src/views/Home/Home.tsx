@@ -60,7 +60,7 @@ const Home: React.FC = () => {
     <Page>
       <Hero>
         <Heading as="h1" size="xl" mb="24px" color="secondary">
-          {TranslateString(576, 'PolyGaj')}
+          {TranslateString(576, 'PolyPhoenix')}
         </Heading>
         <Text>Rise from the ashes and to the moon!</Text>
       </Hero>
