@@ -102,13 +102,13 @@ const Farms: React.FC<FarmsProps> = (farmsProps) => {
       <Heading as="h1" size="lg" color="primary" mb="50px" style={{ textAlign: 'center' }}>
         {
           tokenMode ?
-            'Stake tokens to earn GAJ'
+            'Stake tokens to earn PHX'
             :
-          'Stake LP tokens to earn GAJ'
+          'Stake LP tokens to earn PHX'
         }
       </Heading>
       <Heading as="h2" color="secondary" mb="50px" style={{ textAlign: 'center' }}>
-        50% of the Deposit Fee will be used to buyback GAJ and Burn the Tokens
+        50% of the Deposit Fee will be used to buyback PHX and Burn the Tokens
       </Heading>
       <Heading as="h2" color="secondary" mb="50px" style={{ textAlign: 'center' }}>
         Burn Time: Everyday 14:00 UTC
